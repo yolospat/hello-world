@@ -1,2 +1,2 @@
 # hello-world
-Doing the hello-world guide on creating a repo
+Doing the hello-world guide on creating a repository. 
